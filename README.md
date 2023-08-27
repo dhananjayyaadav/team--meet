@@ -26,10 +26,6 @@ https://teamx-meet.netlify.app/
 
 Run the below command to clone the repo locally
 
-```
-
-```
-
 ### To run the web application
 
 ```
