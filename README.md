@@ -27,8 +27,7 @@ https://teamx-meet.netlify.app/
 Run the below command to clone the repo locally
 
 ```
-git clone https://github.com/amaan-ahmad/screenx
-cd screenx
+
 ```
 
 ### To run the web application
