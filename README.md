@@ -8,8 +8,6 @@ ScreenX is a free online screen recorder built purely in javascript.
 [
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/kothariji/SyntaxMeets)
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](hhttps://github.com/amaan-ahmad/screenx) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/amaan-ahmad/screenx)
-
 ## Website - <em>[ScreenX](https://screenx.netlify.app/)</em>
 
 ## Features
