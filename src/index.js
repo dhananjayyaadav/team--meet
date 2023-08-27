@@ -18,7 +18,7 @@ const htmlBody = () => {
       <p class="subtitle">${subtitle}</p>
       <p>
         Built with ❤ by
-        <a href="https://amaan.codes" target="_blank">Amaan Ahmad</a>
+        <a href="https://dhananjay.codes" target="_blank">Dhananjay Yadav</a>
       </p>
     </div>
     <div class="container">
