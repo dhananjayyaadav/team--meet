@@ -2,7 +2,7 @@
 
 ScreenX is a free online screen recorder built purely in javascript.
 
-![ScreenX](readme-assets/screenx-front.JPG)
+![ScreenX]
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e5be14e5-cbff-4445-b81f-75b5cdfa33d4/deploy-status)](https://app.netlify.com/sites/screenx/deploys)
 [
